@@ -13,7 +13,7 @@ export default function About(){
                     <label className="text-slate-600 dark:text-slate-50 text-sm">Illustration by <a href="https://icons8.com/illustrations/author/ODexzOcCgAMh">Finn Reville</a> from <a href="https://icons8.com/illustrations">Ouch!</a></label>
                 </div>
                 <div className="m-5">
-                    <h1 className="mb-2 text-2xl text-cyan-700 dark:text-cyan-500 font-bold uppercase"><span className="text-cyan-900 dark:text-cyan-50">I&apos;am </span>Andy</h1>
+                    <h1 className="mb-2 text-2xl text-cyan-700 dark:text-cyan-500 font-bold uppercase"><span className="text-cyan-900 dark:text-cyan-50">I&apos;am </span>Erin</h1>
                     <h3 className="font-bold text-1xl text-xl text-cyan-950 dark:text-cyan-50">Student who interested in <span className="text-cyan-700 dark:text-cyan-500">Web Development</span> and <span className="text-cyan-700 dark:text-cyan-500">Flutter Development</span> based in <span className="text-cyan-700 dark:text-cyan-500">Indonesia</span></h3>
                     <p className="text text-slate-600 dark:text-slate-300 mt-3">I learn about how to makes website and mobile app from sratch. Start in learn basic HTML, CSS, Javascript and Dart.</p>
                     <div className="divider divider-vertical"/>
